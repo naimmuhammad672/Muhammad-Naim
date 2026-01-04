@@ -2,7 +2,7 @@
 
 ### A passionate Web developer
 
-<p align="left"> <img src="https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/597406212_1384315686461813_8771729366796237448_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=tc8WisCjQw0Q7kNvwFVh3bS&_nc_oc=Adlj8ihb-_57ar6C_1mezzoBWJ_SBEkGqldvYQgRpesSoPhzUDCXnaEZY59t2AA2RK4&_nc_zt=23&_nc_ht=scontent.fdac24-5.fna&_nc_gid=F6_zqZrJe2iCmgJr0Bx1Ow&oh=00_Afqvyr-y5C6mc6PeUWfG4_Yj9UqqfCCkzp6IAoBrWAWoMw&oe=6960725C" alt="Muhammad Naim" /> </p>
+<p align="left"> <img src="" /> </p>
 
 - 🔭 I'm currently working on **programming Hero**
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **naimmuhammad672@gmail.com**
 
-- 📝 I regularly write articles on **[https://ma.tt/](https://ma.tt/)**
+- 📝 I regularly write articles on **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
